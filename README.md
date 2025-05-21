@@ -8,3 +8,6 @@ This project focuses on data engineering within Azure Synapse, utilizing the USG
 
 The United States Geological Survey (USGS) Earthquake Hazards Program API provides real-time earthquake data worldwide. It allows users to query earthquake events based on parameters such as time, location, and magnitude.
 [USGS]: [https://www.usgs.gov/programs/earthquake-hazards]
+
+The diagram below visualizes the Azure services being used in this project.
+![alt diagram](diagram.png)
